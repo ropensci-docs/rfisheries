@@ -1,0 +1,12 @@
+{
+  "commit": {
+    "commit": "c20f80c7af3e2d49b275214d356b712a07a88c3f",
+    "author": "rOpenSci Bot <myrmecocystus+ropenscibot@gmail.com>",
+    "time": "2019-12-09 21:25:44",
+    "files": 1,
+    "merge": false,
+    "message": "Add links to official docs site.\nFor more details: https://ropensci.org/technotes/2019/06/07/ropensci-docs/\n"
+  },
+  "repo": "https://github.com/ropensci/rfisheries",
+  "pkg": "rfisheries"
+}
